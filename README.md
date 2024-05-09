@@ -18,18 +18,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Windows 10 Virtual Machine (VM) in Azure with Virtual Network (VNet)
+- Internet Information Services (IIS) with IIS Management Console, CGI, and Common HTTP Features enabled
+- PHP Manager for IIS
+- IIS URL Rewrite Module 2
+- PHP 7.3.8
+- VC_redist.x86
+- MySQL 5.5.62
+- HeidiSQL
+- osTicket v1.15.8
 
 <h2>Installation Steps</h2>
 
+![image](https://github.com/yohan-perera/osticket-prereqs/assets/156178441/cc5ce6b7-d2c4-4360-adb1-a393242bfc68)
 <p>
 Create Resource Group
 </p>
-![image](https://github.com/yohan-perera/osticket-prereqs/assets/156178441/cc5ce6b7-d2c4-4360-adb1-a393242bfc68)
 <br />
 
 ![image](https://github.com/yohan-perera/osticket-prereqs/assets/156178441/4783e6ba-dbc0-45e0-9e92-1b54caf4d950)
@@ -88,7 +92,7 @@ Install ‘VC_redist.x86.exe’
 
 ![image](https://github.com/yohan-perera/osticket-prereqs/assets/156178441/bd477c77-e5dc-41b8-bccd-457fa34d18ca)
 <p>
-Install MySQL Server 5.5 (mysql-5.5.62-win32.msi), ensuring ‘Typical’ installation setup is selected.
+Install MySQL Server 5.5.62 (mysql-5.5.62-win32.msi), ensuring ‘Typical’ installation setup is selected.
 </p>
 <br />
 
