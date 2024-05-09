@@ -26,10 +26,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-![image](https://github.com/yohan-perera/osticket-prereqs/assets/156178441/cc5ce6b7-d2c4-4360-adb1-a393242bfc68)
 <p>
 Create Resource Group
 </p>
+![image](https://github.com/yohan-perera/osticket-prereqs/assets/156178441/cc5ce6b7-d2c4-4360-adb1-a393242bfc68)
 <br />
 
 ![image](https://github.com/yohan-perera/osticket-prereqs/assets/156178441/4783e6ba-dbc0-45e0-9e92-1b54caf4d950)
